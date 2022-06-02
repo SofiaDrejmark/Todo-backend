@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"task": "Make a todo-list",
+		"completed": true
+	},
+	{
+		"id": 2,
+		"task": "Eat a snack",
+		"completed": false
+	},
+	{
+		"id": 3,
+		"task": "Water plants",
+		"completed": false
+	},
+	{
+		"id": 567,
+		"task": "Clean house",
+		"completed": false
+	},
+	{
+		"id": 501,
+		"task": "Make Coffee",
+		"completed": false
+	},
+	{
+		"id": 4539,
+		"task": "Sleep",
+		"completed": false
+	}
+]
